@@ -1,4 +1,4 @@
-const trigonometryQuestions = [
+const questions = [
     // Round 1
     [
         {
